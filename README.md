@@ -1,5 +1,4 @@
 # gurdeep-chohan.github.io
-Blog
 
 **16/09/2025**
 
